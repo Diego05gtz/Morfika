@@ -1,0 +1,7 @@
+COLOCA AQUÍ LAS IMÁGENES DE TUS PRODUCTOS (.jpg, .png, .webp)
+=============================================================
+Ejemplo:
+Si guardas aquí un archivo llamado "soporte-laptop.jpg",
+en src/data/productos.js debes referenciarlo así:
+
+  image: '/img/soporte-laptop.jpg',
