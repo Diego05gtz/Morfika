@@ -170,7 +170,7 @@ export const PRODUCTS = [
     stock: 'Disponible',
     defaultColor: 'Azul',
     image:
-      'https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=800&q=80',
+      '/img/soporte-cel.jpg',
   },
 
   // --- FIGURAS Y ESCULTURAS LOW-POLY ---
